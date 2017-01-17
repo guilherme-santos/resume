@@ -22,7 +22,15 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 ## Experience
 
-#### Neoway Business Solution (Jun 2015 - Present)
+#### OptioPay (May 2017 - Present)
+
+*Backend Engineer*
+
+Building a scalable platform to help everyone make the most out of their money.
+
+;-)
+
+#### Neoway Business Solution (Jun 2015 - Feb 2016)
 
 *Backend Developer*
 

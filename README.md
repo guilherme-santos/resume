@@ -2,9 +2,10 @@
 
 ## Guilherme Silveira dos Santos
 
-- Florianópolis, BR
-- xguiga@gmail.com
-- Phone: +55 (48) 9640-3883
+- From: Florianópolis, BR
+- Living in: Berlin, DE
+- Email: xguiga@gmail.com
+- Phone: +49 (173) 979-9383
 
 ## Summary
 

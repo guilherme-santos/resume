@@ -10,7 +10,7 @@
 
 I’m a Computer Engineer since 2011, but I started programming long time before that. I consider myself autodidact because I like to learn new technologies all the time and I can do it very quickly. I have started to study PHP at home since I was teenager, what give me good knowledge to develop many web applications. During the college and internships I learned other programming languages, such as C, C++, Java and Lua and I could improve myself with other skills.
 
-I’ve been working for long time as a freelancer developer and most of the time involving web development, as a result I became an experienced web developer with big expertise in PHP, JavaScript, CSS and HTML. In the last few months I started working with Node.js and Golang.
+I’ve been working for long time as a freelancer developer and most of the time involving web development, as a result I became an experienced web developer with big expertise in PHP, JavaScript, CSS and HTML. In 2015 I started working with Node.js and Golang.
 
 I’ve already contributed in many open source projects like Enlightenment Foundation Libraries (EFL), Zend Framework and other small JavaScript and Golang libraries. I like to work with open source projects and I do it in my spare time.
 
@@ -22,7 +22,15 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 ## Experience
 
-#### Neoway Business Solution (Jun 2015 - Present)
+#### Ridelink (Sep 2016 - Present)
+
+*Backend Developer*
+
+**Main Technologies:** PHP, Symfony, Silex, Golang, MySQL, ElasticSearch, RabbitMQ, Docker, AWS;
+
+Development of Car Sharing platform, we're working with microservice where the most part of services are PHP using Symfony or Silex and we're starting some development using Golang. We're improving our RESTful API and adding new features.
+
+#### Neoway Business Solution (Jun 2015 - Sep 2016)
 
 *Backend Developer*
 

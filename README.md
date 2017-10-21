@@ -15,7 +15,7 @@ I’ve been working for long time as a freelancer developer and most of the time
 
 I’ve already contributed in many open source projects like Enlightenment Foundation Libraries (EFL), Zend Framework and other small JavaScript and Golang libraries. I like to work with open source projects and I do it in my spare time.
 
-I worked in companies with several different technologies and it made me an open min- ded developer, with can-do attitude and a good interpersonal relationship. Currently I’m working with Golang as Full Stack Developer in south Brazil, but looking for new challenges around the world.
+I worked in companies with several different technologies and it made me an open minded developer, with can-do attitude and a good interpersonal relationship. Currently I’m working mainly with PHP and Golang as Backend Developer in Berlin, but looking for new challenges around the world.
 
 ## Education
 
@@ -27,9 +27,9 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 *Backend Developer*
 
-**Main Technologies:** PHP, Symfony, Silex, Golang, MySQL, ElasticSearch, RabbitMQ, Docker, AWS;
+**Main Technologies:** PHP, Symfony, Silex, Golang, Python, MySQL, ElasticSearch, Docker, AWS;
 
-Development of Car Sharing platform, we're working with microservice where the most part of services are PHP using Symfony or Silex and we're starting some development using Golang. We're improving our RESTful API and adding new features.
+Development of Car Sharing platform. We're working with microservice over AWS using SQS, ECS, ElasticCache, ElasticSearch, RDS, CloudWatch, etc. Our microservices are developed in Golang, PHP using Symfony or Silex and we also have some projects in Python. We're improving our RESTful API and adding new features.
 
 #### Neoway Business Solution (Jun 2015 - Sep 2016)
 

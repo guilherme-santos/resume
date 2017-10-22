@@ -29,7 +29,7 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 **Main Technologies:** PHP, Symfony, Silex, Go, Python, MySQL, ElasticSearch, Redis, Docker, AWS;
 
-I was a member of a polyglot team responsible for developing and improving services aimed to build a car sharing platform. Most of the micro-services were developed using PHP with frameworks Symfony and Silex; however, there were also projects developed in Go and Python. All services were making use of AWS platform, such as ECS, SQS, ElasticCache, ElasticSearch, RDS and CloudWatch. In addition, I have developed tools to make as easier as possible the continuous deployment. Testing was part of the company’s culture, hands on PHPUnit, Prophesize and Behat for PHP projects, and for Go standard library was enough.    
+I was a member of a polyglot team responsible for developing and improving services aimed to build a car sharing platform. Most of the micro-services were developed using PHP with frameworks Symfony and Silex; however, there were also projects developed in Go and Python. All services were making use of AWS platform, such as ECS, SQS, ElasticCache, ElasticSearch, RDS and CloudWatch. In addition, I have developed tools to make as easier as possible the continuous deployment. Testing was part of the company’s culture, hands on PHPUnit, Prophesize and Behat for PHP projects, and for Go standard library was enough.
 
 #### Neoway Business Solution (Jun 2015 - Sep 2016)
 
@@ -66,7 +66,7 @@ I deployed and built the whole infrastructure for GIOX ERP, as a result I improv
 **Main Technologies:** C, C++, Lua, SIP, uCLinux, GStreamer, ShellScript, Blackfin;
 
 Embedded development of an IP Phone touch screen with color display using Blackfin processor with uCLinux distribution. We used u-boot, EFL graphic library, GLib, GObject, GDBus, CppUTest and Sofia-SIP as SIP stack.
-    
+
 Speaker recognition: Web service responsible for creating audio models from the voice and storing it. The voice models were used later to identify someone talking on a audio recording. Tools used: Lua, lighthttpd, GStreamer, fastcgi, MongoDB.
 
 Keyword spotting: Middleware used to perform text search on audio using a proprietary protocol to communicate with clients. Tools used: Lua, C, GStreamer.

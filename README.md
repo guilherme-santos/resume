@@ -9,13 +9,13 @@
 
 ## Summary
 
-I’m a Computer Engineer since 2011, but I started programming long time before that. I consider myself autodidact because I like to learn new technologies all the time and I can do it very quickly. I have started to study PHP at home since I was teenager, what give me good knowledge to develop many web applications. During the college and internships I learned other programming languages, such as C, C++, Java and Lua and I could improve myself with other skills.
+I'm a Computer Engineer since 2011, but I started programming long time before that. I consider myself autodidact because I like to learn new technologies all the time and I can do it very quickly. I have started to study PHP at home since I was teenager, what give me good knowledge to develop many web applications. During the college and internships I learned other programming languages, such as C, C++, Java and Lua and I could improve myself with other skills.
 
-I’ve been working for long time as a freelancer developer and most of the time involving web development, as a result I became an experienced web developer with big expertise in PHP, JavaScript, CSS and HTML. In 2015 I started working with Node.js and Golang.
+I've been working for long time as a freelancer developer and most of the time involving web development, as a result I became an experienced web developer with big expertise in PHP, JavaScript, CSS and HTML. Apart from that I improved myself as DevOps creating CLI and scripts to automate deploys, configuring servers, etc. In 2015 I started working with Node.js and Go.
 
-I’ve already contributed in many open source projects like Enlightenment Foundation Libraries (EFL), Zend Framework and other small JavaScript and Golang libraries. I like to work with open source projects and I do it in my spare time.
+I've already contributed in many open source projects like Enlightenment Foundation Libraries (EFL), Zend Framework and other small libraries in PHP, Go and JavaScript. I really like to work with open source projects and I usually do it in my spare time. In the last few years testing (e.g. unit tests, TDD) became part of my process of development which is code, test, deploy and monitor.
 
-I worked in companies with several different technologies and it made me an open minded developer, with can-do attitude and a good interpersonal relationship. Currently I’m working mainly with PHP and Golang as Backend Developer in Berlin, but looking for new challenges around the world.
+I worked in companies with several different technologies and it made me an open minded developer, with can-do attitude and a good interpersonal relationship. Currently I'm working mainly with PHP and Go as Backend Developer in Berlin, but looking for new challenges.
 
 ## Education
 
@@ -27,19 +27,19 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 *Backend Developer*
 
-**Main Technologies:** PHP, Symfony, Silex, Golang, Python, MySQL, ElasticSearch, Docker, AWS;
+**Main Technologies:** PHP, Symfony, Silex, Go, Python, MySQL, ElasticSearch, Redis, Docker, AWS;
 
-Development of Car Sharing platform. We're working with microservice over AWS using SQS, ECS, ElasticCache, ElasticSearch, RDS, CloudWatch, etc. Our microservices are developed in Golang, PHP using Symfony or Silex and we also have some projects in Python. We're improving our RESTful API and adding new features.
+I was a member of a polyglot team responsible for developing and improving services aimed to build a car sharing platform. Most of the micro-services were developed using PHP with frameworks Symfony and Silex; however, there were also projects developed in Go and Python. All services were making use of AWS platform, such as ECS, SQS, ElasticCache, ElasticSearch, RDS and CloudWatch. In addition, I have developed tools to make as easier as possible the continuous deployment. Testing was part of the company’s culture, hands on PHPUnit, Prophesize and Behat for PHP projects, and for Go standard library was enough.
 
 #### Neoway Business Solution (Jun 2015 - Sep 2016)
 
 *Backend Developer*
 
-**Main Technologies:** Golang, ElasticSearch, MongoDB, RabbitMQ, Docker, Rkt, CoreOS, AWS;
+**Main Technologies:** Go, ElasticSearch, MongoDB, RabbitMQ, Docker, Rkt, CoreOS, AWS;
 
-Development of Big Data platform to Market Intelligence. We’re using mainly Golang, but Node.js is used in couple of projects. I develop several RESTful API to communi- cate with different back-ends like: ElasticSearch, MongoDB and RabbitMQ what give me some experience how to use and configure them.
+Development of Big Data platform to Market Intelligence. We were using mainly Go but Node.js was also used in a couple of projects. I developed several RESTful API to communicate with different backends like: ElasticSearch, MongoDB and RabbitMQ what gave me some experience how to use and configure them.
 
-We love dev-ops culture here, for that I’ve developed some tools to automatize our deploy at AWS - Amazon Web Services. We often write unit and integration tests to make our deploy as continuous as possible using gitlab flow and docker/rkt containers.
+We loved DevOps culture here, for that I've developed some tools to automate our deploy at AWS. We often wrote unit and integration tests to make our deploy as continuous as possible using GitLab flow and Docker/Rkt containers.
 
 #### uTech Tecnologia (Nov 2014 - Feb 15)
 
@@ -47,17 +47,17 @@ We love dev-ops culture here, for that I’ve developed some tools to automatize
 
 **Main Technologies:** C++, Qt, QML, JavaScript, SIP;
 
-Outsourced development of a Softphone to integrate with company’s platform. This project became part of company’s platform. The biggest challenge was be multi- platform, running in Windows 7, Linux and Mac OS X. The software was developed using C++, QML and JavaScript through Qt library and PJSIP as SIP stack.
+Outsourced development of a Softphone to integrate with company’s platform. The biggest challenge was be multi-platform, running in Windows 7, Linux and Mac OS X. The software was developed using C++, QML and JavaScript through Qt library and PJSIP as SIP stack.
 
 #### GIOX Tecnologia (Mar 2013 - Present)
 
 *Full Stack Developer*
 
-**Main Technologies:** PHP, JavaScript, HTML5, CSS3, MySQL, Phing, Ansible;
+**Main Technologies:** PHP, Go, JavaScript, HTML5, CSS3, MySQL, MongoDB, Docker, NSQ, Phing, Ansible, CoreOS, SOAP, XML;
 
-Development of ERP to small business with electronic invoice (NF-e - Nota Fiscal Eletrônica). To develop this project I used PHP, MySQL, JavaScript, HTML5 and CSS3. The project was based in Zend Framework 2, PHPUnit and Doctrine2 in the back-end. It was need to communicate with Web Services using SOAP protocol and XML. In the front-end I used Bootstrap3, jQuery, Underscore.js and Backbone.js.
+As a entrepreneur I founded GIOX in 2013, a company focused in creating SAS ERP for small businesses with electronic invoice (NF-e). To develop the project I have used mainly PHP as backend language with ZendFramework 2, Silex, Doctrine2 and PHPUnit. MySQL was my choice for database and NSQ as message broker. Other recent services have been written in Go using MongoDB as database. For the frontend I have used jQuery, Backbone.js, Underscore.js and Bootstrap3 frameworks.
 
-I’ve improved myself as system administrator and dev-ops because I needed to create all the infrastructure used to deploy and run the application, for that I used Digital Ocean platform, and I needed to install, configure and maintain some Linux servers, I could automate a lot of tasks using Ansible, Git and Phing.
+I deployed and built the whole infrastructure for GIOX ERP, as a result I improved myself as SysAdmin and DevOps. Now, the project is running on Digital Ocean and I make use of Ansible, Git and Phing to automate tasks and maintain Linux servers.
 
 #### Digitro Tecnologia (Dec 2009 - Mar 2013)
 
@@ -67,20 +67,21 @@ I’ve improved myself as system administrator and dev-ops because I needed to c
 
 Embedded development of an IP Phone touch screen with color display using Blackfin processor with uCLinux distribution. We used u-boot, EFL graphic library, GLib, GObject, GDBus, CppUTest and Sofia-SIP as SIP stack.
 
-Speaker recognition: Web service responsible for creating audio models from the voice and storing it. The voice models where used later to identify someone talking on a audio recording. Tools used: Lua, lighthttpd, GStreamer, fastcgi, MongoDB.
+Speaker recognition: Web service responsible for creating audio models from the voice and storing it. The voice models were used later to identify someone talking on a audio recording. Tools used: Lua, lighthttpd, GStreamer, fastcgi, MongoDB.
 
 Keyword spotting: Middleware used to perform text search on audio using a proprietary protocol to communicate with clients. Tools used: Lua, C, GStreamer.
 
-Flash Audio streaming server: Web service responsible for loading audio recordings in different audio codecs, transcode then, apply filters and effects and send to the client through the RTMP protocol. Tools used: C++, C, GStr1eamer, Monit.
+Flash Audio streaming server: Web service responsible for loading audio recordings in different audio codecs, transcode then, apply filters and effects and send to the client through the RTMP protocol. Tools used: C++, C, GStreamer, Monit.
 
 ## Skills Base
 
-- **Programming Languages:** Golang, JavaScript, PHP, Lua, C, C++ and a little of Java;
-- **Databases:** MongoDB, MySQL, LevelDB and a little of PostgreSQL;
+- **Programming Languages:** Go, PHP, JavaScript, C, C++, Lua and a little of Java;
+- **Databases:** MongoDB, MySQL, Redis, LevelDB and a little of PostgreSQL;
+- **Frameworks:** Cobra, Silex, Symfony, ZendFramework2/3, Docktrine2, jQuery, Backbone.js, Underscore.js ;
 - **Agile practices:** TDD, SCRUM, Kanban, Pair programming, Clean code, Code Review;
-- **Tools:** Git, Makefile, Phing, Grunt, Bower, Ansible, Vagrant, Jenkins;
-- **Languages:** Fluent in Portuguese, Intermediate in English and Spanish;
-- **Others:** ElasticSearch, RabbitMQ, Docker, Rkt;
+- **Tools:** Git, Makefile, Docker-Compose, Phing, Bower, Ansible, Jenkins, GitLab CI;
+- **Languages:** Fluent in Portuguese, Intermediate in English;
+- **Others:** ElasticSearch, RabbitMQ, NSQ, Docker, Rkt, AWS;
 
 ## More Info
 

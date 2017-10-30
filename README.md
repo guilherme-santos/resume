@@ -25,7 +25,7 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 #### Ridelink (Sep 2016 - Present)
 
-*Backend Developer*
+*Technical Lead*
 
 **Main Technologies:** PHP, Symfony, Silex, Go, Python, MySQL, ElasticSearch, Redis, Docker, AWS;
 
@@ -33,7 +33,7 @@ I'm a member of a polyglot team responsible for developing and improving service
 
 #### Neoway Business Solution (Jun 2015 - Sep 2016)
 
-*Backend Developer*
+*Senior Backend Developer*
 
 **Main Technologies:** Go, ElasticSearch, MongoDB, RabbitMQ, Docker, Rkt, CoreOS, AWS;
 

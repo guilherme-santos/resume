@@ -11,11 +11,11 @@
 
 I'm a Computer Engineer since 2011 but I started programming long time before that. I consider myself autodidact because I like to learn new technologies all the time and I can do it very quickly. I have started to study PHP at home since I was teenager what give me good knowledge to develop many web applications. During the college and internships I learned other programming languages, such as C, C++, Java and Lua and I could improve myself with other skills.
 
-I've been working for long time as a freelancer developer and most of the time involving web development, as a result I became an experienced web developer with big expertise in PHP, JavaScript, CSS and HTML. Apart from that I improved myself as DevOps creating CLI and scripts to automate deploys, configure servers, etc. In 2015 I started working with Node.js and Go.
+I've been working for long time as a freelancer developer and most of the time involving web development, as a result I became an experienced web developer with big expertise in PHP, JavaScript, CSS and HTML. Apart from that I improved myself as DevOps creating CLI and scripts to automate deploys, configure servers, etc. In 2015 I started working with Go.
 
 I've already contributed in many open source projects like Enlightenment Foundation Libraries (EFL), Zend Framework and other small libraries in PHP, Go and JavaScript. I really like to work with open source projects and I usually do it in my spare time. In the last few years testing (e.g. unit tests, TDD) became part of my process of development which is code, test, deploy and monitor.
 
-I worked in companies with several different technologies and it made me an open minded developer, with can-do attitude and a good interpersonal relationship. Currently I'm working mainly with PHP and Go as Backend Developer in Berlin, but looking for new challenges.
+I worked in companies with several different technologies and it made me an open minded developer, with can-do attitude and a good interpersonal relationship. Currently I'm working mainly with Go as Senior Software Engineer in Berlin, but looking for new challenges.
 
 ## Education
 
@@ -23,7 +23,16 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 ## Experience
 
-#### Ridelink (Sep 2016 - Present)
+#### DeliveryHero (foodora/foodpanda) (Jan 2018 - Present)
+
+*Senior Software Engineer*
+
+**Main Technologies:** Go, ElasticSearch, MySQL, Redis, Docker, AWS, Kubernetes;
+
+I'm working on Pandora platform (Foodora + Foodpanda), moving from monolithic application to micro-services using even-driven architeture. Currently I'm a member of Search & Discovery team which handle the search for 4 different brands and 20 different countries.
+Also I'm developing new open source library and helping to define new guidelines and best practices to Go projects to level the whole Pandora team.
+
+#### Ridelink (Sep 2016 - Dec 2017)
 
 *Technical Lead*
 
@@ -75,11 +84,11 @@ Flash Audio streaming server: Web service responsible for loading audio recordin
 
 ## Skills Base
 
-- **Programming Languages:** Go, PHP, JavaScript, C, C++, Lua and a little of Java;
+- **Programming Languages:** Go, PHP, JavaScript, C, C++, Lua and Java;
 - **Databases:** MongoDB, MySQL, Redis, LevelDB and a little of PostgreSQL;
 - **Frameworks:** Cobra, Silex, Symfony, ZendFramework2/3, Docktrine2, jQuery, Backbone.js, Underscore.js ;
 - **Agile practices:** TDD, SCRUM, Kanban, Pair programming, Clean code, Code Review;
-- **Tools:** Git, Makefile, Docker-Compose, Phing, Bower, Ansible, Jenkins, GitLab CI;
+- **Tools:** Git, Makefile, Docker-Compose, Phing, Bower, Ansible, Jenkins, GitLab CI, Kuberentes;
 - **Languages:** Fluent in Portuguese, Intermediate in English;
 - **Others:** ElasticSearch, RabbitMQ, NSQ, Docker, Rkt, AWS;
 

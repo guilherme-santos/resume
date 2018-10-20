@@ -29,7 +29,7 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 **Main Technologies:** Go, ElasticSearch, MySQL, Redis, Docker, AWS, Kubernetes;
 
-I'm working on Pandora platform (Foodora + Foodpanda), moving from monolithic application to micro-services using even-driven architeture. Currently I'm a member of Search & Discovery team which handle the search for 4 different brands and 20 different countries.
+I'm working on Pandora platform (Foodora + Foodpanda), moving from monolithic application to micro-services using even-driven architeture. Currently I'm a member of Search & Discovery team which handle the search for 4 different brands in 20 different countries.
 Also I'm developing new open source library and helping to define new guidelines and best practices to Go projects to level the whole Pandora team.
 
 #### Ridelink (Sep 2016 - Dec 2017)
@@ -88,9 +88,9 @@ Flash Audio streaming server: Web service responsible for loading audio recordin
 - **Databases:** MongoDB, MySQL, Redis, LevelDB and a little of PostgreSQL;
 - **Frameworks:** Cobra, Silex, Symfony, ZendFramework2/3, Docktrine2, jQuery, Backbone.js, Underscore.js ;
 - **Agile practices:** TDD, SCRUM, Kanban, Pair programming, Clean code, Code Review;
-- **Tools:** Git, Makefile, Docker-Compose, Phing, Bower, Ansible, Jenkins, GitLab CI, Kuberentes;
+- **Tools:** Git, Makefile, Docker-Compose, Phing, Bower, Ansible, Jenkins, GitLab CI;
 - **Languages:** Fluent in Portuguese, Intermediate in English;
-- **Others:** ElasticSearch, RabbitMQ, NSQ, Docker, Rkt, AWS;
+- **Others:** ElasticSearch, RabbitMQ, NSQ, Docker, Rkt, AWS, Kubernetes;
 
 ## More Info
 

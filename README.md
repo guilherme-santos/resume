@@ -23,7 +23,15 @@ UNIVALI University, BSc in Computer Engineering, June 2011.
 
 ## Experience
 
-#### ProShare (Nov 2019 - Present)
+#### Zalando Lounge (Jun 2020 - Present)
+
+*Senior Software Engineer*
+
+**Main Technologies:** Go, MySQL, Kafka, Docker, AWS, Kubernetes;
+
+Develop several new microservices to replace a legacy PHP application. The data, previously available through SOAP calls is now published on Kafka, later is consumed and saved in our MySQL database. Develop new microservice to upload and execute several kind of jobs. One of the most important jobs is the article onboarding that need to communicate with several different services through API calls but also publising events to Kafka after different kinds of validation.
+
+#### ProShare (Nov 2019 - Jun 2020)
 
 *Senior Software Engineer*
 

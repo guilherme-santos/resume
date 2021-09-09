@@ -4,16 +4,15 @@
 
 - From: Florianópolis, BR
 - Living in: Berlin, DE
-- Email: xguiga@gmail.com
-- Phone: +49 (173) 979-9383
+- Email: xguiga [at] gmail.com
 
 ## Summary
 
-I'm a Computer Engineer since 2011 but I started coding a long time before that. I consider myself a self-learner, who is always looking for new technologies, usually, my learning process is very quick. I have started to study PHP at home since I was a teenager what gave me good knowledge to develop several web applications. During the college and internships, I learned other programming languages, such as C, C++, Java, and Lua, and of course could improve myself with other skills. In 2015 I started to work with Go and it's been my main programing language since then.
+I'm a Computer Engineer since 2011 but I started coding a long time before that. I'm a fast and self-learner, who is always looking for new technologies. When I was a teenager I started studying PHP at home since which gave me good knowledge to develop several web applications. During the college and internships, I learned other programming languages, such as C, C++, Java, and Lua, and improved other skills. In 2015 I began working with Go and it's been my main programing language since then.
 
-I've already contributed to many open-source projects like EFL - Enlightenment Foundation Libraries, Zend Framework, Elastic (Elasticsearch client fo Go), gRPC-Gateway, and other small libraries in Go, PHP, and JavaScript. I really like to work with open-source projects and I usually do it in my spare time. I had the opportunity to work with TDD from 2009 to 2013 but write unit test still part of my daily basis.
+I've already contributed to many open-source projects like EFL - Enlightenment Foundation Libraries, Zend Framework, Elastic (Elasticsearch client fo Go), gRPC-Gateway, and other small libraries in Go, PHP, and JavaScript. I really like to work with open-source projects and I usually do it in my spare time. I had the opportunity to work with TDD from 2009 to 2013 but write unit tests is still part of my daily basis.
 
-I've built several projects over the years, some of them are still active nowadays, for example [Giox](http://giox.com.br) and [Patrimoniando](https://patrimoniando.com). Those projects helped me to become an experienced Web Developer and DevOps, also taught me how to listen to my customers and how to break down bigger problems. Apart from the projects, I've worked in companies with several different technologies and it made me an open-minded developer, with a can-do attitude and a good interpersonal relationship.
+I've built several projects over the years, some of them are still active, such as [Giox Tecnologia](http://giox.com.br) and [Patrimoniando](https://patrimoniando.com). Those projects helped me to become a more complete engineer, understanding the whole stack from a DevOps to a Frontend, also taught me how to listen to my customers and how to break down bigger problems. Apart from the projects, I've worked in companies with several different technologies and it made me an open-minded developer, with a can-do attitude and a good interpersonal relationship.
 
 Currently, I'm based in Berlin working remote with Go as a Senior Software Engineer, but always looking for new challenges.
 
@@ -37,7 +36,7 @@ I work as an Engineer responsible for several internal projects for the CCS - Ca
 
 **Main Technologies:** Go, gRPC, MariaDB, GraphQL, Docker, AWS, Kubernetes;
 
-I helped to develop a whole car-sharing platform focused on professionals from scratch. All backend was written in Go and MariaDB as database, the communication between our microservices was done through gRPC. For external communication, we provided a RESTful API and a GraphQL API for easy integration with our Web App and our Mobile apps.
+I was member of the team that created a car-sharing platform focused on professionals. The whole backend was written in Go and MariaDB as database. The communication between microservices was done through gRPC and we also provided a RESTful and GraphQL API for the integration with our web and mobile apps.
 
 The infrastructure was built using Terraform running in a Kubernetes cluster on AWS.
 
@@ -47,9 +46,9 @@ The infrastructure was built using Terraform running in a Kubernetes cluster on 
 
 **Main Technologies:** Go, ElasticSearch, MySQL, Redis, Docker, AWS, Kubernetes;
 
-I was working on Pandora's platform (Foodora + Foodpanda), moving away from a monolithic application to microservices using event-driven architecture and Go evangelist.
+I was working on Pandora's platform (Foodora + Foodpanda), moving away from a monolithic application to microservices using event-driven architecture.
 
-I was a member of Search & Discovery team with a high traffic API where I built a service to handle the search of 4 different brands in 20 different countries, cutting in 6x the average response time. ElasticSearch, Redis, and MySQL were intensively used.
+I was member of Search & Discovery team with a high traffic API where I built a service to handle the search of 4 different brands in 20 different countries, cutting in 6 times the average response time. ElasticSearch, Redis, and MySQL were intensively used.
 
 As a Go evangelist, I helped the whole business unit to develop a new open-source library, define new guidelines and best practices for Go projects.
 

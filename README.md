@@ -78,8 +78,7 @@ DevOps culture was really strong there which helped me improve myself and develo
 
 **Main Technologies:** C++, Qt, QML, JavaScript, SIP;
 
-Freelance project to develop a Softphone to integrate with company’s
-PABX. The application was multi-platform, running in Windows 7, Linux, and MacOS. The technologies used were C++, QML, and JavaScript through the Qt library, for VoIP communication and SIP stack the library PJSIP was used.
+Freelance project to develop a Softphone to integrate with company’s PABX. The application was multi-platform, running in Windows 7, Linux, and MacOS. The technologies used were C++, QML, and JavaScript through the Qt library, for VoIP communication and SIP stack the library PJSIP was used.
 
 #### GIOX Tecnologia (Mar 2013 - Present)
 
@@ -114,7 +113,7 @@ Development of an audio streaming server, a web service responsible for loading 
 - **Agile practices:** Kanban, SCRUM, Pair programming, TDD;
 - **Tools:** Git, Makefile, Ansible, GitLab CI, Kubernetes, Jenkins;
 - **Languages:** Native in Portuguese and Fluent in English;
-- **Others:** RabbitMQ, NSQ, Nats, Docker, Kubernetes, AWS;
+- **Others:** RabbitMQ, NSQ, NATS, Docker, Kubernetes, AWS;
 
 ## More Info
 

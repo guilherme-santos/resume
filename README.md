@@ -1,121 +1,130 @@
-# Curriculum Vitae
+# Guilherme Silveira dos Santos
 
-## Guilherme Silveira dos Santos
+**Senior Software Engineer | Go Specialist | Freelancer**
 
-- From: Florianópolis, BR
-- Living in: Berlin, DE
-- Email: xguiga [at] gmail.com
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Remote](https://img.shields.io/badge/Remote-Yes-blue)
+![Location](https://img.shields.io/badge/Based%20in-Berlin%2C%20Germany-black)
+![Freelance](https://img.shields.io/badge/Available%20for-Freelance-brightgreen)
+
+---
+
+📍 Berlin, Germany  
+🔗 [LinkedIn](https://www.linkedin.com/in/guilhermesilveirasantos)  
+💻 [GitHub](https://github.com/guilherme-santos)  
+🌐 [Site](https://giox.tech/guilherme)  
+📄 [Resume](./resume.pdf)
+
+---
 
 ## Summary
 
-I'm a Computer Engineer since 2011 but I started coding a long time before that. I'm a fast and self-learner, who is always looking for new technologies. When I was a teenager I started studying PHP at home since which gave me good knowledge to develop several web applications. During the college and internships, I learned other programming languages, such as C, C++, Java, and Lua, and improved other skills. In 2015 I began working with Go and it's been my main programing language since then.
+I'm a Senior Software Engineer with 15+ years of experience, specializing in backend development with Go—my primary and preferred language since 2015. I’ve designed and built distributed systems, microservices, and event-driven architectures across multiple industries including fintech, e-commerce, and AI platforms.
 
-I've already contributed to many open-source projects like EFL - Enlightenment Foundation Libraries, Zend Framework, Elastic (Elasticsearch client fo Go), gRPC-Gateway, and other small libraries in Go, PHP, and JavaScript. I really like to work with open-source projects and I usually do it in my spare time. I had the opportunity to work with TDD from 2009 to 2013 but write unit tests is still part of my daily basis.
+I enjoy working on greenfield projects and have led personal initiatives such as an ERP for SMEs with e-invoicing and a multi-currency investment tracker. My open-source contributions include well-known projects like gRPC-Gateway and Elastic’s Go client.
 
-I've built several projects over the years, some of them are still active, such as [Giox Tecnologia](http://giox.com.br) and [Patrimoniando](https://patrimoniando.com). Those projects helped me to become a more complete engineer, understanding the whole stack from a DevOps to a Frontend, also taught me how to listen to my customers and how to break down bigger problems. Apart from the projects, I've worked in companies with several different technologies and it made me an open-minded developer, with a can-do attitude and a good interpersonal relationship.
+Beyond backend development, I’m comfortable across the stack—from infrastructure (Kubernetes, Terraform, CI/CD) to frontend when needed. I bring a product mindset, clean code, and strong communication skills. Currently open for freelance and consulting opportunities focused on Go-based systems, cloud-native apps, and high-performance backend platforms.
 
-Currently, I'm based in Berlin working remote with Go as a Senior Software Engineer, but always looking for new challenges.
+## Skills
+
+**Languages & Backend**
+- Go / Golang
+- Python
+- PHP
+- C/C++
+
+**Databases**
+- MySQL, MariaDB, Postgres
+- MongoDB, Redis, ElasticSearch
+
+**System Design**
+- Event-driven architecture, REST, gRPC, Pub/Sub
+
+**Messaging**
+- Kafka, Google Pub/Sub, NATS, SQS/SNS, RabbitMQ
+
+**Infrastructure / Automation**
+- Terraform, Ansible, bash scripting
+
+**CI / CD**
+- GitLab CI, GitHub Actions, Jenkins, CircleCI
+
+**Containers & Orchestration**
+- Docker, Kubernetes
+
+**Cloud Platforms**
+- AWS, GCP, DigitalOcean
+
+**AI / LLM**
+- ChatGPT, Prompt design, Custom model integration
+
+**Agile Practices**
+- XP, TDD, Scrum, Kanban
+
+## Work Experience
+
+### Birdie AI — Head of Engineering
+*Palo Alto, CA (Remote) | May 2023 – Present*
+- Led and restructured the engineering team
+- Rebuilt the data pipeline and launched a feedback intelligence platform using LLMs (ChatGPT, custom models)
+- Architected Go microservices with event-driven design using Google Pub/Sub, ElasticSearch, and Postgres
+- Drove engineering excellence and enabled scalable AI-powered insights
+
+---
+
+### Qonto — Staff Engineer
+*Paris, France (Remote) | May 2022 – May 2023*
+- Defined new Go standards and mentored engineering teams
+- Led the rollout of a scalable, event-driven architecture
+- Worked with cross-functional teams to align backend strategy with fintech product needs
+
+---
+
+### Zalando — Senior Software Engineer
+*Berlin, Germany | Jun 2020 – Apr 2022*
+- Migrated PHP legacy systems to Go microservices with Kafka
+- Replaced SOAP APIs with modern REST APIs
+- Built services to onboard product articles from partners and internal departments
+
+---
+
+### Giox Tecnologia — Founder & Lead Engineer
+*Remote | Mar 2013 – Present*
+- Created a SaaS ERP for SMEs, evolving into a certified Brazilian e-invoicing platform
+- Migrated from PHP monolith to Go/PHP microservices using NSQ, MongoDB
+- Built the frontend SPA with Vue.js, Vuetify, and Firebase
+- Managed DevOps with Ansible, Docker, and GitLab CI
+
+---
+
+### ProShare (Volkswagen Group) — Senior Software Engineer
+*Germany | Nov 2019 – Jun 2020*
+- Built a Go backend with gRPC for a B2B car-sharing platform
+- Delivered REST and GraphQL APIs for integration
+- Deployed infrastructure using Terraform and Kubernetes on AWS
+
+---
+
+### Delivery Hero — Senior Software Engineer
+*Berlin, Germany | Jan 2018 – Nov 2019*
+- Migrated monolith to Go microservices for Foodora + Foodpanda (Pandora platform)
+- Built a high-traffic API across 20+ countries using ElasticSearch, Redis, MySQL
+- Reduced response time by 6x and led Go evangelism internally with training and open-source work
+
+---
+
+### Ridelink — Technical Lead
+*Berlin, Germany | Sep 2016 – Dec 2017*
+- Led a polyglot team building a car-sharing platform (PHP, Go, Python)
+- Managed AWS infra (ECS, SQS, SNS, RDS, ElasticCache)
+- Open-sourced `deploy-ecs` CLI tool for deployment automation
+
+---
 
 ## Education
 
-UNIVALI University, BSc in Computer Engineering, June 2011.
-
-## Experience
-
-#### Zalando Lounge (Jun 2020 - Present)
-
-*Senior Software Engineer*
-
-**Main Technologies:** Go, MySQL, Kafka, AWS, Kubernetes;
-
-I work as an Engineer responsible for several internal projects for the CCS - Campaign and Content Solution. My team and I have designed and developed several new microservices to replace a legacy PHP application. Now the data is published on Kafka, which is later consumed, enriched, and saved in a MySQL database, replacing old legacy SOAP calls. Also, a new microservice was built to import data from other areas (e.g. supplier, logistics) inside of the platform, the most relevant is the article onboarding which needs to orchestrate several API calls and publishing events.
-
-#### ProShare - Car Sharing by Volkswagen (Nov 2019 - Jun 2020)
-
-*Senior Software Engineer*
-
-**Main Technologies:** Go, gRPC, MariaDB, GraphQL, Docker, AWS, Kubernetes;
-
-I was member of the team that created a car-sharing platform focused on professionals. The whole backend was written in Go and MariaDB as database. The communication between microservices was done through gRPC and we also provided a RESTful and GraphQL API for the integration with our web and mobile apps.
-
-The infrastructure was built using Terraform running in a Kubernetes cluster on AWS.
-
-#### Foodora/Foodpanda - DeliveryHero (Jan 2018 - Nov 2019)
-
-*Senior Software Engineer*
-
-**Main Technologies:** Go, ElasticSearch, MySQL, Redis, Docker, AWS, Kubernetes;
-
-I was working on Pandora's platform (Foodora + Foodpanda), moving away from a monolithic application to microservices using event-driven architecture.
-
-I was member of Search & Discovery team with a high traffic API where I built a service to handle the search of 4 different brands in 20 different countries, cutting in 6 times the average response time. ElasticSearch, Redis, and MySQL were intensively used.
-
-As a Go evangelist, I helped the whole business unit to develop a new open-source library, define new guidelines and best practices for Go projects.
-
-#### Ridelink (Sep 2016 - Dec 2017)
-
-*Tech Lead*
-
-**Main Technologies:** Go, PHP, Python, ElasticSearch, MySQL, Redis, Docker, AWS;
-
-I was the Tech Lead of a polyglot team responsible for developing a car-sharing platform. Most of the microservices were developed using PHP with Symfony and Silex frameworks, but a couple of services were written in Go and Python. The infrastructure was relying on several AWS services, such as ECS, SQS, ElasticCache, ElasticSearch, RDS, and CloudWatch.
-
-I have also developed an open-source tool called [deploy-ecs](https://github.com/guilherme-santos/deploy-ecs) to help us in our continuous deployment process.
-
-#### Neoway Business Solution (Jun 2015 - Sep 2016)
-
-*Senior Software Engineer*
-
-**Main Technologies:** Go, ElasticSearch, MongoDB, RabbitMQ, Docker, Rkt, AWS;
-
-I was a member of the Core team in the development of a Big Data platform for Market Intelligence. I've developed several RESTful APIs to communicate with different backends like ElasticSearch, MongoDB, and RabbitMQ.
-
-DevOps culture was really strong there which helped me improve myself and develop some tools to enable us continuous integrations, and continuous deployment at AWS.
-
-#### uTech Tecnologia (Nov 2014 - Feb 15)
-
-*Software Engineer*
-
-**Main Technologies:** C++, Qt, QML, JavaScript, SIP;
-
-Freelance project to develop a Softphone to integrate with company’s PABX. The application was multi-platform, running in Windows 7, Linux, and MacOS. The technologies used were C++, QML, and JavaScript through the Qt library, for VoIP communication and SIP stack the library PJSIP was used.
-
-#### GIOX Tecnologia (Mar 2013 - Present)
-
-*Founder*
-
-**Main Technologies:** Go, PHP, JavaScript, MySQL, MongoDB, Docker, NSQ, Ansible, SOAP, XML;
-
-As an entrepreneur I founded [Giox Tecnologia](http://giox.com.br) in 2013, a company focused on creating SaaS ERP for small businesses.
-
-The monolithic was developed using PHP as backend with ZendFramework2 and Silex with MySQL as database. Later the project started to grow and new microservices were needed which were written in Go and new technologies were added e.g. MongoDB, and NSQ (message broker). I also worked as Frontend using jQuery, Backbone.js, Underscore.js, and Bootstrap3 which were later migrated to a modern SPA using Vue.js, Firebase, and Vuetify.
-
-I was not only the Backend and Frontend Engineer I worked quite a lot as SysAdmin and DevOps, to automate and scale as easily as possible. The company runs at DigitalOcean, I use Ansible, Docker Compose, Docker Swarm, Git, and Gitlab-CI to automate and maintain the Linux servers.
-
-#### Digitro Tecnologia (Dec 2009 - Mar 2013)
-
-*Software Engineer*
-
-**Main Technologies:** C, C++, Lua, SIP, uCLinux, GStreamer, Blackfin;
-
-I was responsible for the development of a UI for an IP Phone with a touchscreen display using a Blackfin processor embedded with uCLinux. The UI was built using EFL graphic library, GLib, GObject, and Sofia-SIP as SIP stack.
-
-Development of a web service for speaker recognition. The service creates audio models from a voice, those models were later used to identify someone talking on an audio recording. Some of the technology used was Lua, lighthttpd, GStreamer, FastCGI, and MongoDB.
-
-Development of keyword spotting, which was a service to perform text search on audios using a proprietary protocol to communicate with clients, was built using Lua, C, and GStreamer.
-
-Development of an audio streaming server, a web service responsible for loading audio recordings in different audio codecs, transcode then, apply filters and effects and send to the client through the RTMP protocol, technologies used was C++, C, and GStreamer.
-
-## Skills Base
-
-- **Programming Languages:** Go, PHP, Python, JavaScript, C, C++ and Lua;
-- **Databases:** MySQL, MongoDB, ElasticSearch and Redis;
-- **Agile practices:** Kanban, SCRUM, Pair programming, TDD;
-- **Tools:** Git, Makefile, Ansible, GitLab CI, Kubernetes, Jenkins;
-- **Languages:** Native in Portuguese and Fluent in English;
-- **Others:** RabbitMQ, NSQ, NATS, Docker, Kubernetes, AWS;
-
-## More Info
-
-- **Linkedin:** https://www.linkedin.com/in/guilhermesilveirasantos
-- **Github:** https://github.com/guilherme-santos
+**BSc in Computer Engineering**  
+UNIVALI University — Jun 2011

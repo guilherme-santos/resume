@@ -22,11 +22,11 @@
 
 ## Summary
 
-I'm a Senior Software Engineer with 15+ years of experience, specializing in backend development with Go—my primary and preferred language since 2015. I’ve designed and built distributed systems, microservices, and event-driven architectures across multiple industries including fintech, e-commerce, and AI platforms.
+I'm a Senior Software Engineer with 15+ years of experience, specializing in backend development with Go, my primary language since 2015. I design and build distributed systems, microservices and event-driven architectures, with experience across fintech and payments, e-commerce and AI platforms.
 
-I enjoy working on greenfield projects and have led personal initiatives such as an ERP for SMEs with e-invoicing and a multi-currency investment tracker. My open-source contributions include well-known projects like gRPC-Gateway and Elastic’s Go client.
+Comfortable across the stack, from infrastructure (Kubernetes, Terraform, CI/CD) to frontend when needed. I work hands-on with AI agents (Claude, Cursor, Codex) and have built agent skills and AI-powered knowledge bases for engineering and product teams. Open-source contributor to gRPC-Gateway and Elastic’s Go client.
 
-Beyond backend development, I’m comfortable across the stack—from infrastructure (Kubernetes, Terraform, CI/CD) to frontend when needed. I bring a product mindset, clean code, and strong communication skills. Currently open for freelance and consulting opportunities focused on Go-based systems, cloud-native apps, and high-performance backend platforms.
+I enjoy greenfield projects, from my own ERP and e-invoicing platform to a multi-currency investment tracker, and bring a product mindset, clean code and strong communication skills. Open to freelance and consulting work on Go-based, cloud-native and high-performance backend platforms.
 
 ## Skills
 
@@ -38,7 +38,7 @@ Beyond backend development, I’m comfortable across the stack—from infrastruc
 
 **Databases**
 - MySQL, MariaDB, Postgres
-- MongoDB, Redis, ElasticSearch
+- MongoDB, Redis, Elasticsearch
 
 **System Design**
 - Event-driven architecture, REST, gRPC, Pub/Sub
@@ -59,19 +59,31 @@ Beyond backend development, I’m comfortable across the stack—from infrastruc
 - AWS, GCP, DigitalOcean
 
 **AI / LLM**
-- ChatGPT, Prompt design, Custom model integration
+- Claude, Cursor, Codex, ChatGPT
+- AI agents & skills, Prompt engineering, LLM integration, Fine-tuned models
 
 **Agile Practices**
 - XP, TDD, Scrum, Kanban
 
 ## Work Experience
 
+### NALA — Senior Software Engineer
+*London, UK | Sep 2025 – Present*
+- Working on Rafiki, NALA's B2B cross-border payments platform connecting banks and mobile-money networks
+- Integrated payment providers across Africa and Asia
+- Optimized performance platform-wide, scaling throughput from 2.5 to 30 TPS (12×)
+- Built AI agent skills that let product managers make small codebase changes themselves
+- Built an AI-powered knowledge base for integrating and maintaining payment providers
+- Stack: Go, Postgres, Redis, Kafka, AWS ECS, Prometheus, Grafana, Datadog
+
+---
+
 ### Birdie AI — Head of Engineering
-*Palo Alto, CA (Remote) | May 2023 – Present*
+*Palo Alto, CA (Remote) | May 2023 – Sep 2025*
 - Led and restructured the engineering team
-- Rebuilt the data pipeline and launched a feedback intelligence platform using LLMs (ChatGPT, custom models)
-- Architected Go microservices with event-driven design using Google Pub/Sub, ElasticSearch, and Postgres
-- Drove engineering excellence and enabled scalable AI-powered insights
+- Rebuilt the data pipeline and launched a feedback intelligence platform using LLMs (ChatGPT) and fine-tuned custom models
+- Architected event-driven Go microservices on Google Pub/Sub, Elasticsearch and Postgres
+- Raised engineering standards, improved delivery processes and enabled scalable AI-powered insights for enterprise customers
 
 ---
 
@@ -111,15 +123,15 @@ Beyond backend development, I’m comfortable across the stack—from infrastruc
 ### Delivery Hero — Senior Software Engineer
 *Berlin, Germany | Jan 2018 – Nov 2019*
 - Migrated monolith to Go microservices for Foodora + Foodpanda (Pandora platform)
-- Built a high-traffic API across 20+ countries using ElasticSearch, Redis, MySQL
-- Reduced response time by 6x and led Go evangelism internally with training and open-source work
+- Built a high-traffic Search & Discovery API serving four brands in 20 countries using Elasticsearch, Redis, MySQL
+- Improved average response times 6× and drove Go adoption internally with standards, training and open-source work
 
 ---
 
 ### Ridelink — Technical Lead
 *Berlin, Germany | Sep 2016 – Dec 2017*
 - Led a polyglot team building a car-sharing platform (PHP, Go, Python)
-- Managed AWS infra (ECS, SQS, SNS, RDS, ElasticCache)
+- Managed AWS infra (ECS, SQS, SNS, RDS, ElastiCache, Elasticsearch)
 - Open-sourced `deploy-ecs` CLI tool for deployment automation
 
 ---
